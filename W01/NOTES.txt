@@ -1,0 +1,16 @@
+JS OOP:
+OOP is about modeling a system as a collection of objects. Each object represent a different part of the system.
+Each object contains two things -> METHODS (functions) and DATA.
+Each object could be PUBLIC or PRIVATE
+Other objects don't have to care about what the other objects are doing.
+
+CLASSES AND INSTANCES:
+When we modelate a system as OOP, we create abstract definitions representing the types of objects we want in out system.
+Ex -> modeling a School would have a Person, Professor, Student, etc.
+
+On its own, a class doesn't do anything: it's a kind of template for creating concrete objects of that type.
+We can create a constructor for each class
+
+INHERITANCE:
+It's about superclass or parent classes. Those are classes that will share specific methods or data to the children classes.
+Ex -> A Person class can share the name and age to the Professor and Student classes
